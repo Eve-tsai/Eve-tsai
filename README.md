@@ -13,4 +13,6 @@
 
 <h3 align="left">what i like:</h3>
 <p align="left">
-![image](CED66ECA-B053-4715-A79C-E1F5BBAF9A59.png)
+![image] (https://github.com/Eve-tsai/Eve-tsai/blob/main/CED66ECA-B053-4715-A79C-E1F5BBAF9A59.png)
+
+
