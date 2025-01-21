@@ -10,8 +10,7 @@
   
 - ✈️ I love traveling 
 
-- 🌱 I love nature
-
+- 🌱 I love forest and beach
 
 
 </p>
