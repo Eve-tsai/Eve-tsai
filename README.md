@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eve Tsai</h1>
+<h1 align="center">Bonjour 👋, Je m'appelle Eve </h1>
 <h3 align="center">Major  in statistic and information science, Minor in finance and international business </h3>
 
 - 🔭 I worked in **digital marketing before**
