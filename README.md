@@ -8,9 +8,9 @@
 <h3 align="left">What I Like:</h3>
 <p align="left">
   
-- ✈️ I love traveling, had been to 🇬🇧 🇯🇵
+- ✈️ I love traveling and scuba diving 
 
-- 🌱 I love forest and beach
+-  I love forest🌲 and beach 🏝️
 
 
 </p>
