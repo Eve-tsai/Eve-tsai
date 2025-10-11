@@ -4,7 +4,7 @@
 - 🔭 I worked in **digital marketing before**
 
 - 🌱 I’m currently living **Frence**
-- 🏫 i'm studing in **emlyon business school master in data science and artificial intelligence strategy**.
+- 🏫 I'm studing in **emlyon business school master in data science and artificial intelligence strategy**.
 
 <h3 align="left">What I Like:</h3>
 <p align="left">
