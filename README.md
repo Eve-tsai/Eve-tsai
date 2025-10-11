@@ -2,8 +2,9 @@
 <h3 align="center">Studing in emlyon business school master in data science and artificial intelligence strategy </h3>
 
 - 🏫 Major in statistic and information science, Minor in finance and international business
-- 🔭 I worked in **digital marketing before**
+- 🔭 I was **a system analyst before**
 - 🌱 I’m currently living **Frence**
+- 🥐 I love **croissant**.
   
 <h3 align="left">What I Like:</h3>
 <p align="left">
