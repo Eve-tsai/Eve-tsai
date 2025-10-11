@@ -4,13 +4,13 @@
 - 🏫 Major in statistic and information science, Minor in finance and international business
 - 🔭 I was **a system analyst before**
 - 🌱 I’m currently living **Frence**
-- 🥐 I love **croissant**.
+
   
 <h3 align="left">What I Like:</h3>
 <p align="left">
   
 -  I love traveling ✈️ and scuba diving 🤿
-
+-  I love croissant🥐
 -  I love forest🌲 and beach 🏝️
 
 
