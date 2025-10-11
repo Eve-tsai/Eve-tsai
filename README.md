@@ -1,11 +1,10 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Faye </h1>
-<h3 align="center">Major  in statistic and information science, Minor in finance and international business </h3>
+<h3 align="center">Studing in emlyon business school master in data science and artificial intelligence strategy </h3>
 
+- 🏫 Major in statistic and information science, Minor in finance and international business
 - 🔭 I worked in **digital marketing before**
-
 - 🌱 I’m currently living **Frence**
-- 🏫 I'm studing in **emlyon business school master in data science and artificial intelligence strategy**.
-
+  
 <h3 align="left">What I Like:</h3>
 <p align="left">
   
