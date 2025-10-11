@@ -1,9 +1,9 @@
-<h1 align="center">Bonjour 👋, Je m'appelle Eve </h1>
+<h1 align="center">Bonjour 👋, Je m'appelle Faye </h1>
 <h3 align="center">Major  in statistic and information science, Minor in finance and international business </h3>
 
 - 🔭 I worked in **digital marketing before**
 
-- 🌱 I’m currently learning **French**
+- 🌱 I’m currently living **French**, studing in **emlyon business school master in data science and artificial intelligence strategy**.
 
 <h3 align="left">What I Like:</h3>
 <p align="left">
