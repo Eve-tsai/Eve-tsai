@@ -3,7 +3,7 @@
 
 - 🏫 Major in statistic and information science, Minor in finance and international business
 - 🔭 I was **a system analyst before**
-- 🌱 I’m currently living **Frence**
+- 🌱 I’m currently living **France**
 
   
 <h3 align="left">What I Like:</h3>
